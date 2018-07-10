@@ -1,3 +1,4 @@
- # Define a local variable called 'greeting',
- # give it the value of the string "Hello World"
-greeting = "Hello World"
+ puts "My name is De'Kyra"
+ puts "I have a dog named Heart"
+ puts "I have 2 siblings"
+ puts "I am the youngest"
